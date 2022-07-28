@@ -11,7 +11,7 @@
 - 📫 How to reach me : ▶️ <a href="https://www.instagram.com/nikitakukharchuk/">INSTAGRAM</a> ◀️
 - 🍀 __*Run to the rescue with love and peace will follow.*__ 🍀
  
-[![Visits Badge](https://badges.pufler.dev/visits/nikitakukharchuk/nikitakukharchuk)](https:braydoncoyer.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/nikitakukharchuk/nikitakukharchuk)]
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/%D0%BD%D0%B8%D0%BA%D0%B8%D1%82%D0%B0-%D0%BA%D1%83%D1%85%D0%B0%D1%80%D1%87%D1%83%D0%BA-263763224/)
 
 <a href="https://github.com/nikitakukharchuk">
